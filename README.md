@@ -1,0 +1,1 @@
+Simple and responsive calculator
